@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Instasent is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://instasent.com/
+Instasent offers a cloud‑based messaging platform that enables businesses to send SMS, RCS and WhatsApp messages. It combines a customer data platform with AI agents that help create segments, draft campaigns and automate flows, while providing a robust API and extensive integrations for developers.
+
+**Areas:** Company · Messaging · SMS · RCS · WhatsApp · AI · Marketing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://instasent.com/)
+- [Documentation](https://docs.instasent.com/platform/en/overview/)
+- [Getting started](https://docs.instasent.com/platform-api/getting-started/introduction/)
+- [API reference](https://docs.instasent.com/platform-api/getting-started/choose-your-api/)
+- [Pricing](https://www.instasent.com/en/pricing/)
+- [Sign up](https://dashboard.instasent.com/signup)
+- [Support](https://help.instasent.com/es/)
+- [Blog](https://www.instasent.com/en/blog/)
+- [Terms of service](https://www.instasent.com/en/legal/terms/)
+- [Privacy policy](https://www.instasent.com/en/legal/privacy/)
+- [GitHub](https://github.com/instasent)
+
+**APIs profiled:** 24
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/instasent/](https://apis.io/providers/instasent/).
