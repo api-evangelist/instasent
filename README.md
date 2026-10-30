@@ -68,6 +68,95 @@ Instasent offers a cloud‑based messaging platform that enables businesses to s
 
 **Areas:** Company · Messaging · SMS · RCS · WhatsApp · AI · Marketing
 
+## Instasent on APIs.io
+
+Everything profiled for Instasent is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/instasent/](https://apis.io/providers/instasent/)** — or go straight to one of the APIs or properties below.
+
+### APIs (24)
+
+- [Instasent Account API](https://apis.io/apis/instasent/instasent-account-api/) — Account related operations
+- [Instasent Analytics API](https://apis.io/apis/instasent/instasent-analytics-api/) — Curated Analytics & Reporting endpoints. A small, bounded, strongly-typed reporting surface over the same engines that power the dashboard. Reports come in…
+- [Instasent Attention API](https://apis.io/apis/instasent/instasent-attention-api/) — What has broken, or is about to, for a project and the organization behind it. The counterpart of readiness: readiness answers what is left to configure,…
+- [Instasent Audience API](https://apis.io/apis/instasent/instasent-audience-api/) — Audience contact management, search, and filtering endpoints
+- [Instasent Automation API](https://apis.io/apis/instasent/instasent-automation-api/) — Automation management endpoints for viewing automation details
+- [Instasent Campaign API](https://apis.io/apis/instasent/instasent-campaign-api/) — Campaign management endpoints for viewing campaign details
+- [Instasent Contacts API](https://apis.io/apis/instasent/instasent-contacts-api/) — The contacts API from Instasent — 2 operation(s) for contacts.
+- [Instasent Datasource API](https://apis.io/apis/instasent/instasent-datasource-api/) — Data source management endpoints for creating and managing data sources
+- [Instasent Events API](https://apis.io/apis/instasent/instasent-events-api/) — The events API from Instasent — 1 operation(s) for events.
+- [Instasent Flow API](https://apis.io/apis/instasent/instasent-flow-api/) — Flow discovery endpoints (read-only): list flows and their versions to find the ids the flow analytics endpoints take. Flows are built and managed in the…
+- [Instasent General API](https://apis.io/apis/instasent/instasent-general-api/) — General API endpoints for authentication and organization information
+- [Instasent Lookup API](https://apis.io/apis/instasent/instasent-lookup-api/) — Lookup related operations
+- [Instasent OAuth API](https://apis.io/apis/instasent/instasent-oauth-api/) — OAuth 2.1 endpoints — Dynamic Client Registration, the token endpoint, and the discovery metadata that lets a client find them. They exist so a third-party…
+- [Instasent Price API](https://apis.io/apis/instasent/instasent-price-api/) — Price related operations
+- [Instasent Project API](https://apis.io/apis/instasent/instasent-project-api/) — Project management and configuration endpoints
+- [Instasent Rcs Sender API](https://apis.io/apis/instasent/instasent-rcs-sender-api/) — RCS sender (agent) management endpoints
+- [Instasent Readiness API](https://apis.io/apis/instasent/instasent-readiness-api/) — Setup readiness endpoints — "what's left to configure" and "what needs attention" for a project or one of its channels, plus the real per-country send…
+- [Instasent Registration API](https://apis.io/apis/instasent/instasent-registration-api/) — A country's registration paperwork for one sender: sign a letter, allowlist a verifier, email an operator. Not the setup checklist, which is product…
+- [Instasent Segment API](https://apis.io/apis/instasent/instasent-segment-api/) — Segment management endpoints for creating and managing audience segments
+- [Instasent Sms API](https://apis.io/apis/instasent/instasent-sms-api/) — Sms related operations
+- [Instasent Sms Sender API](https://apis.io/apis/instasent/instasent-sms-sender-api/) — SMS sender management endpoints
+- [Instasent Specifications API](https://apis.io/apis/instasent/instasent-specifications-api/) — The specifications API from Instasent — 4 operation(s) for specifications.
+- [Instasent Stream API](https://apis.io/apis/instasent/instasent-stream-api/) — Stream endpoints for ingesting contacts and events into data sources
+- [Instasent Third Party API](https://apis.io/apis/instasent/instasent-third-party-api/) — Other endpoints intendend for external services integration
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Instasent Agentic Access](https://apis.io/agentic-access/instasent/instasent-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AttributeSpec](https://apis.io/schemas/instasent/instasent-attribute-spec/)
+- [AudienceContext](https://apis.io/schemas/instasent/instasent-audience-context/)
+- [CampaignSummary](https://apis.io/schemas/instasent/instasent-campaign-summary/)
+- [FlowTemplate](https://apis.io/schemas/instasent/instasent-flow-template/)
+- [ResponseProjectItem](https://apis.io/schemas/instasent/instasent-response-project-item/)
+- [ResponseSmsItem](https://apis.io/schemas/instasent/instasent-response-sms-item/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Instasent Context](https://apis.io/jsonld/instasent/instasent-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Instasent Product Overlay](https://apis.io/overlays/instasent/instasent-product-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Instasent API Rules](https://apis.io/rules/instasent/instasent-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Instasent Authentication](https://apis.io/security/instasent/instasent-authentication/)
+- [Instasent Domain Security](https://apis.io/security/instasent/instasent-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Instasent Scopes](https://apis.io/scopes/instasent/instasent-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Instasent Rate Limits](https://apis.io/rate-limits/instasent/instasent-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -84,8 +173,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Privacy policy](https://www.instasent.com/en/legal/privacy/)
 - [GitHub](https://github.com/instasent)
 
-**APIs profiled:** 24
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/instasent/](https://apis.io/providers/instasent/).
+**Kin Score 61.6** — strong · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.4 |
+| Contract quality | 62.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 44.2 |
+| Developer ergonomics | 64.3 |
+| Access clarity | 44.7 |
+
+**Agent readiness 53.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 32.8** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/instasent/](https://apis.io/providers/instasent/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Instasent: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/instasent/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
